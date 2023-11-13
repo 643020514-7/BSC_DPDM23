@@ -10,3 +10,6 @@ Score
 - GitHub 5%
 
 Final Score = Score * %attendance
+
+#sheet
+link:https://docs.google.com/spreadsheets/d/1Rn1ULV_4ab0tuIg_t7zcf7azUv_2rSMaTSRh9nZlUOw/edit?fbclid=IwAR2lgYIR3SPH1QaIgd6nPnRoZpypiocQR_VX0oaD7D6v_RaHsWaAXa1f_mw#gid=0
