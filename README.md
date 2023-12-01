@@ -31,6 +31,12 @@ link:https://docs.google.com/spreadsheets/d/1Rn1ULV_4ab0tuIg_t7zcf7azUv_2rSMaTSR
 10. [Summary](#summary)
 
 ## 1. Why Data Mining?
+- The Explosive Growth of Data: from Terabytes to Petabytes
+  ปริมาณข้อมูลได้เพิ่มขึ้นอย่างต่อเนื่องจนถึงระดับที่สูงมาก จากTerabytesถึงPetabytes สถานการณ์นี้เกิดขึ้นจากหลายปัจจัย เช่น การสะสมข้อมูลอัตโนมัติ ระบบฐานข้อมูล เครื่องมือเก็บข้อมูลบนเว็บ และการกระจายของสังคมคอมพิวเตอร์ไว้ทั่วไป
+- Drowning in Data, Starving for Knowledge
+  เนื่องจากมีข้อมูลอยู่มาก แต่ไม่สามารถนำมาใช้ได้เพราะขาดความรู้ที่สามารถนำข้อมูลเหล่านี้มาใช้จริงได้
+- "Necessity is the Mother of Invention" — Data Mining — Automated Analysis of Massive Data Sets
+  การทำ Data Mining จึงเป็นสิ่งที่สำคัญ โดยการทำการวิเคราะห์ข้อมูลอัตโนมัติจากชุดข้อมูลขนาดใหญ่ เพื่อหารูปแบบ แนวโน้ม เพื่อนำข้อมูลมาใช้ได้อย่างมีมูลค่ามากที่สุด
 
 ## 2. What Is Data Mining?
 
