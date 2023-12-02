@@ -13,7 +13,7 @@ Final Score = Score * %attendance
 
 
 # Intro to Data Mining
-# - Chapter 1. Introduction
+ - Chapter 1. Introduction
 
   # Table of Contents
 
