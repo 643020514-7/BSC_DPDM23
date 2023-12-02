@@ -15,7 +15,7 @@ Final Score = Score * %attendance
 # Intro to Data Mining
 ## Chapter 1. Introduction
 
-  # Table of Contents
+  ### Table of Contents
 
 1. [Why Data Mining?](#why-data-mining)
 2. [What Is Data Mining?](#what-is-data-mining)
