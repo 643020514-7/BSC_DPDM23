@@ -15,19 +15,6 @@ Final Score = Score * %attendance
 # Intro to Data Mining
 ## Chapter 1. Introduction
 
-  ### Table of Contents
-
-1. [Why Data Mining?](#why-data-mining)
-2. [What Is Data Mining?](#what-is-data-mining)
-3. [A Multi-Dimensional View of Data Mining](#a-multi-dimensional-view-of-data-mining)
-4. [What Kinds of Data Can Be Mined?](#what-kinds-of-data-can-be-mined)
-5. [What Kinds of Patterns Can Be Mined?](#what-kinds-of-patterns-can-be-mined)
-6. [What Kinds of Technologies Are Used?](#what-kinds-of-technologies-are-used)
-7. [What Kinds of Applications Are Targeted?](#what-kinds-of-applications-are-targeted)
-8. [Major Issues in Data Mining](#major-issues-in-data-mining)
-9. [A Brief History of Data Mining and Data Mining Society](#a-brief-history-of-data-mining-and-data-mining-society)
-10. [Summary](#summary)
-
 ### 1. Why Data Mining?
 - เนื่องจากปริมาณข้อมูลได้เพิ่มขึ้นอย่างต่อเนื่องจนถึงระดับที่สูงมาก จากTerabytesถึงPetabytes สถานการณ์นี้เกิดขึ้นจากหลายปัจจัย เช่น การสะสมข้อมูลอัตโนมัติ ระบบฐานข้อมูล เครื่องมือเก็บข้อมูลบนเว็บ และการกระจายของสังคมคอมพิวเตอร์ไว้ทั่วไป
 - เนื่องจากมีข้อมูลอยู่มาก แต่ไม่สามารถนำมาใช้ได้เพราะขาดความรู้ที่สามารถนำข้อมูลเหล่านี้มาใช้จริงได้
