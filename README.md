@@ -12,8 +12,7 @@ Score
 Final Score = Score * %attendance
 
 
- Data mining
-
+ # Data mining
  
  ![image](https://github.com/phurisk/BSC_DPDM23/assets/137043070/4440bd5e-39c1-4ed8-bcbb-191ce43f82a6)
 
