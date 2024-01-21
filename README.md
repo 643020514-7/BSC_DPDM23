@@ -14,10 +14,10 @@ Final Score = Score * %attendance
 
  # Data mining
  
+  ## Knowledge Discovery (KDD) Process
  ![image](https://github.com/phurisk/BSC_DPDM23/assets/137043070/4440bd5e-39c1-4ed8-bcbb-191ce43f82a6)
 
  
- ## Knowledge Discovery (KDD) Process
 - การทำความสะอาดข้อมูล (Data Cleaning): การกำจัดข้อมูลที่ไม่ต้องการหรือไม่เกี่ยวข้อง เช่น โค้ด HTML, สคริปต์ JavaScript หรือข้อมูลที่ซ้ำซ้อน เพื่อให้เหลือเพียงข้อมูลที่เป็นประโยชน์สำหรับการวิเคราะห์.
 
 - การผสานข้อมูลจากแหล่งต่างๆ (Data Integration): การรวมข้อมูลที่มาจากหลายแหล่ง หรือหลายหน้าเว็บ เพื่อสร้างมุมมองที่ครอบคลุมและสมบูรณ์.
