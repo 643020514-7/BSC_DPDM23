@@ -1,4 +1,4 @@
-# BSC_DPDM23
+![image-10](https://github.com/phurisk/BSC_DPDM23/assets/137043070/08085de8-88ee-4b58-9210-c4a1673e9a5d)# BSC_DPDM23
 Data Preparation and Data Mining
 
 Score
@@ -66,7 +66,9 @@ Final Score = Score * %attendance
 
 # Example  K-means clustering
 
-![kmeansViz](https://github.com/phurisk/BSC_DPDM23/assets/137043070/9a16f0eb-f85e-436b-82d4-bddea8502780)
+![image](https://github.com/phurisk/BSC_DPDM23/assets/137043070/0fb484a3-2996-4622-8d4a-b8754c0c972f)
+
+
 
 - การเริ่มต้น  : อัลกอริธึมเริ่มต้นด้วยการสุ่มเลือกจุด K จากชุดข้อมูลเป็นเซนทรอยด์เริ่มต้น   เซนทรอยด์เหล่านี้เป็นตัวแทนของศูนย์กลางของกลุ่ม K 
 
