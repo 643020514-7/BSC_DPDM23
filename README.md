@@ -1,4 +1,4 @@
-![image-10](https://github.com/phurisk/BSC_DPDM23/assets/137043070/08085de8-88ee-4b58-9210-c4a1673e9a5d)# BSC_DPDM23
+# BSC_DPDM23
 Data Preparation and Data Mining
 
 Score
