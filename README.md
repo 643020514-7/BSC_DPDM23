@@ -11,6 +11,9 @@ Score
 
 Final Score = Score * %attendance
 
+#Homework
+- [Hw.2](https://github.com/phurisk/BSC_DPDM23/blob/main/Hw2.pdf)
+- [Hw.5](https://github.com/phurisk/BSC_DPDM23/blob/main/Hw_5_%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%A8.pdf)
 
  # Data mining
  
